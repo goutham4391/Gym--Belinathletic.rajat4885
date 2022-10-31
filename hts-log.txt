@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 29 Oct 2022 15:48:51 at https://www.berlin-athletic.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.berlin-athletic.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Internship myknot\Day9\Web43\Site43" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/decodeURIComponent(e (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/feed.xml (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/eec152dc.min.css (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/02b07b80.min.css (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/7c602eb2.min.css (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/99a6a99f.min.css (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/2b8b066f.min.css (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/d078781b.min.css (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/7a36fe10.chunk.min.js (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/e3671379.chunk.min.js (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/rb_wixui.thunderbolt~bootstrap-classic.db545a77.chunk.min.js (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/rb_wixui.thunderbolt~bootstrap.8a86afda.chunk.min.css (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/rb_wixui.thunderbolt~bootstrap.7a36fe10.chunk.min.js (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/rb_wixui.thunderbolt~bootstrap-responsive.e3671379.chunk.min.js (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/rb_wixui.thunderbolt~common-site-members-dialogs.384b0b57.chunk.min.css (from https://www.berlin-athletic.com/)
+15:49:21	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/rb_wixui.thunderbolt~common-site-members-dialogs.2059cbfd.chunk.min.js (from https://www.berlin-athletic.com/)
+15:49:28	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/version/ (from https://www.berlin-athletic.com/10erkarte)
+15:49:28	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/5f494459.min.css (from https://www.berlin-athletic.com/10erkarte)
+15:49:28	Error: 	"Not Found" (404) at link https://www.berlin-athletic.com/dee20801.min.css (from https://www.berlin-athletic.com/10erkarte)
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 seconds : 62 links scanned, 41 files written (4299390 bytes overall) [1359529 bytes received at 33988 bytes/sec], 4139136 bytes transferred using HTTP compression in 38 files, ratio 25%, 1.1 requests per connection
+(20 errors, 0 warnings, 0 messages)
